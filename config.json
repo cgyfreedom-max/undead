@@ -6,8 +6,8 @@
       "id": "login-43",
       "name": "43 测试服",
       "host": "43.132.175.160",
-      "port": 80,
-      "scheme": "ws",
+      "port": 443,
+      "scheme": "wss",
       "path": "/ws",
       "enabled": true
     }
