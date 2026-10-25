@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "protocol": "msgpack10-v1",
+  "login_servers": [
+    {
+      "id": "login-43",
+      "name": "43 测试服",
+      "host": "43.132.175.160",
+      "port": 80,
+      "scheme": "ws",
+      "path": "/ws",
+      "enabled": true
+    }
+  ]
+}
